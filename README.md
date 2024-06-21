@@ -9,3 +9,4 @@ There's a program Descriptors.py. This program computes molecular descriptors in
 similarity.py
 This program is to calculate the intermolecular similarity.
 
+Both the OBA and PPBR datasets are from the DrugBank database. Website: https://www.drugbank.com/
