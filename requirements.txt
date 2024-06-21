@@ -1,0 +1,7 @@
+python 3.6
+torch  1.10
+rdkit 0.6.1
+numpy 1.19.0
+deepchem 2.4
+openpyxl 3.0.7
+
