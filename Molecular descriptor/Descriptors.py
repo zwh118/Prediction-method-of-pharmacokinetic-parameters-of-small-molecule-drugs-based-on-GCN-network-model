@@ -1,5 +1,3 @@
-## 批量计算分子描述符，并保存至excel
-
 import openpyxl
 from rdkit import Chem
 from rdkit.Chem import Descriptors
