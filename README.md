@@ -1,0 +1,1 @@
+# Prediction-method-of-pharmacokinetic-parameters-of-small-molecule-drugs-based-on-GCN-network-model
